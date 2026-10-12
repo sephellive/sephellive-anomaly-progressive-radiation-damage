@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="ui_mcm_sep_progressive_radiation_damage"><text>Progressive Radiation Damage</text></string>
+	<string id="ui_mcm_menu_sep_progressive_radiation_damage"><text>Progressive Radiation Damage</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_title"><text>Progressive Radiation Damage</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_description"><text>Adds frame-rate-independent health damage to EGUI's three dangerous accumulated-radiation states. The first grey state remains warning-only.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_enabled"><text>Enable additional radiation damage</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_enabled_desc"><text>Disabling this option leaves the radiation overhaul's original damage and symptoms untouched.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage"><text>Yellow state damage, % health/sec</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage_desc"><text>Applied above 25% through 50% accumulated radiation.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage"><text>Orange state damage, % health/sec</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage_desc"><text>Applied above 50% through 75% accumulated radiation.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage"><text>Red state damage, % health/sec</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage_desc"><text>Applied above 75% accumulated radiation.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_rates_hint"><text>Defaults: yellow 0.15%, orange 0.60%, red 2.00% health per second. Lowering radiation changes or stops the damage on the next one-second tick.</text></string>
+</string_table>

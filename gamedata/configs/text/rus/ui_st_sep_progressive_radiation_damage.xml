@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="ui_mcm_sep_progressive_radiation_damage"><text>Прогрессивный урон от радиации</text></string>
+	<string id="ui_mcm_menu_sep_progressive_radiation_damage"><text>Прогрессивный урон от радиации</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_title"><text>Прогрессивный урон от радиации</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_description"><text>Добавляет не зависящий от FPS урон здоровью на трёх опасных уровнях накопленной радиации EGUI. Первый серый уровень остаётся только предупреждением.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_enabled"><text>Включить дополнительный урон</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_enabled_desc"><text>Отключение параметра не изменяет исходный урон и симптомы радиационного мода.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage"><text>Жёлтый уровень, % здоровья/сек</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage_desc"><text>Применяется при накопленной радиации выше 25% и до 50% включительно.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage"><text>Оранжевый уровень, % здоровья/сек</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage_desc"><text>Применяется при накопленной радиации выше 50% и до 75% включительно.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage"><text>Красный уровень, % здоровья/сек</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage_desc"><text>Применяется при накопленной радиации выше 75%.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_rates_hint"><text>По умолчанию: жёлтый 0,15%, оранжевый 0,60%, красный 2,00% здоровья в секунду. Снижение радиации изменяет или прекращает урон на следующем секундном тике.</text></string>
+</string_table>
