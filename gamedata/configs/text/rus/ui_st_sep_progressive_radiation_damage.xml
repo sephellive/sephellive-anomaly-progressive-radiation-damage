@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="ui_mcm_sep_progressive_radiation_damage"><text>РџСЂРѕРіСЂРµСЃСЃРёРІРЅС‹Р№ СѓСЂРѕРЅ РѕС‚ СЂР°РґРёР°С†РёРё</text></string>
-	<string id="ui_mcm_menu_sep_progressive_radiation_damage"><text>РџСЂРѕРіСЂРµСЃСЃРёРІРЅС‹Р№ СѓСЂРѕРЅ РѕС‚ СЂР°РґРёР°С†РёРё</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_title"><text>РџСЂРѕРіСЂРµСЃСЃРёРІРЅС‹Р№ СѓСЂРѕРЅ РѕС‚ СЂР°РґРёР°С†РёРё</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_description"><text>Р”РѕР±Р°РІР»СЏРµС‚ РЅРµ Р·Р°РІРёСЃСЏС‰РёР№ РѕС‚ FPS СѓСЂРѕРЅ Р·РґРѕСЂРѕРІСЊСЋ РЅР° С‚СЂС‘С… РѕРїР°СЃРЅС‹С… СѓСЂРѕРІРЅСЏС… РЅР°РєРѕРїР»РµРЅРЅРѕР№ СЂР°РґРёР°С†РёРё EGUI. РџРµСЂРІС‹Р№ СЃРµСЂС‹Р№ СѓСЂРѕРІРµРЅСЊ РѕСЃС‚Р°С‘С‚СЃСЏ С‚РѕР»СЊРєРѕ РїСЂРµРґСѓРїСЂРµР¶РґРµРЅРёРµРј.</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_enabled"><text>Р’РєР»СЋС‡РёС‚СЊ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Р№ СѓСЂРѕРЅ</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_enabled_desc"><text>РћС‚РєР»СЋС‡РµРЅРёРµ РїР°СЂР°РјРµС‚СЂР° РЅРµ РёР·РјРµРЅСЏРµС‚ РёСЃС…РѕРґРЅС‹Р№ СѓСЂРѕРЅ Рё СЃРёРјРїС‚РѕРјС‹ СЂР°РґРёР°С†РёРѕРЅРЅРѕРіРѕ РјРѕРґР°.</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage"><text>Р–С‘Р»С‚С‹Р№ СѓСЂРѕРІРµРЅСЊ, % Р·РґРѕСЂРѕРІСЊСЏ/СЃРµРє</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage_desc"><text>РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РїСЂРё РЅР°РєРѕРїР»РµРЅРЅРѕР№ СЂР°РґРёР°С†РёРё РІС‹С€Рµ 25% Рё РґРѕ 50% РІРєР»СЋС‡РёС‚РµР»СЊРЅРѕ.</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage"><text>РћСЂР°РЅР¶РµРІС‹Р№ СѓСЂРѕРІРµРЅСЊ, % Р·РґРѕСЂРѕРІСЊСЏ/СЃРµРє</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage_desc"><text>РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РїСЂРё РЅР°РєРѕРїР»РµРЅРЅРѕР№ СЂР°РґРёР°С†РёРё РІС‹С€Рµ 50% Рё РґРѕ 75% РІРєР»СЋС‡РёС‚РµР»СЊРЅРѕ.</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage"><text>РљСЂР°СЃРЅС‹Р№ СѓСЂРѕРІРµРЅСЊ, % Р·РґРѕСЂРѕРІСЊСЏ/СЃРµРє</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage_desc"><text>РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РїСЂРё РЅР°РєРѕРїР»РµРЅРЅРѕР№ СЂР°РґРёР°С†РёРё РІС‹С€Рµ 75%.</text></string>
-	<string id="ui_mcm_sep_progressive_radiation_damage_rates_hint"><text>РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ: Р¶С‘Р»С‚С‹Р№ 0,15%, РѕСЂР°РЅР¶РµРІС‹Р№ 0,60%, РєСЂР°СЃРЅС‹Р№ 2,00% Р·РґРѕСЂРѕРІСЊСЏ РІ СЃРµРєСѓРЅРґСѓ. РЎРЅРёР¶РµРЅРёРµ СЂР°РґРёР°С†РёРё РёР·РјРµРЅСЏРµС‚ РёР»Рё РїСЂРµРєСЂР°С‰Р°РµС‚ СѓСЂРѕРЅ РЅР° СЃР»РµРґСѓСЋС‰РµРј СЃРµРєСѓРЅРґРЅРѕРј С‚РёРєРµ.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage"><text>Прогрессивный урон от радиации</text></string>
+	<string id="ui_mcm_menu_sep_progressive_radiation_damage"><text>Прогрессивный урон от радиации</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_title"><text>Прогрессивный урон от радиации</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_description"><text>Добавляет не зависящий от FPS урон здоровью на трёх опасных уровнях накопленной радиации EGUI. Первый серый уровень остаётся только предупреждением.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_enabled"><text>Включить дополнительный урон</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_enabled_desc"><text>Отключение параметра не изменяет исходный урон и симптомы радиационного мода.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage"><text>Жёлтый уровень, % здоровья/сек</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_1_damage_desc"><text>Применяется при накопленной радиации выше 25% и до 50% включительно.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage"><text>Оранжевый уровень, % здоровья/сек</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_2_damage_desc"><text>Применяется при накопленной радиации выше 50% и до 75% включительно.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage"><text>Красный уровень, % здоровья/сек</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_tier_3_damage_desc"><text>Применяется при накопленной радиации выше 75%.</text></string>
+	<string id="ui_mcm_sep_progressive_radiation_damage_rates_hint"><text>По умолчанию: жёлтый 0,15%, оранжевый 0,60%, красный 2,00% здоровья в секунду. Снижение радиации изменяет или прекращает урон на следующем секундном тике.</text></string>
 </string_table>

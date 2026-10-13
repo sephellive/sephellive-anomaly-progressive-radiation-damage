@@ -36,6 +36,8 @@ Configure it under **MCM -> Progressive Radiation Damage**.
 
 The release archive starts directly with `gamedata/` and has no wrapper directory.
 
+English and Russian MCM string tables use Windows-1251, matching the Anomaly runtime localization loader.
+
 ## Compatibility
 
 - Uses a unique script and does not overwrite Arszi, EGUI, BHS, or BHRSO files.

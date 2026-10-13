@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.2
+
+- Encode English and Russian MCM string tables as Windows-1251 for the Anomaly runtime loader.
+- Fix Russian MCM text being displayed as UTF-8/CP1251 mojibake.
+- Add release-time localization validation.
+
 ## 0.0.1
 
 - Add fixed-interval radiation damage independent of frame rate.
